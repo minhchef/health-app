@@ -80,3 +80,8 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 
 ## Please view the demo video 
 - demo.webm ( using chrome browser )
+
+## TODO 
+- Using react query to cache the request
+- Making the mobile view
+- Unit testing
